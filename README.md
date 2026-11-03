@@ -1,0 +1,1 @@
+# dinepod_static
